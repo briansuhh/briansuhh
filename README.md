@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python and fpga
 - 💞️ I’m looking to collaborate on practicing to code
 - 📫 How to reach me: brianmaysebastian@gmail.com
+- brian
 
 <!---
 briansuhh/briansuhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
