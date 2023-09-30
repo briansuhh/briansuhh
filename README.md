@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/briansuhh/briansuhh/blob/main/computer_animation.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me: **brianmaysebastian@gmail.com**
 
 <br>
