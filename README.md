@@ -1,15 +1,10 @@
 <h3 align="center">About me:</h3>
-<pre align="left">
-
-I'm currently a second-year college student pursuing a Bachelor of Science in Information Technology (BSIT 2-1) 
-at the Polytechnic University of the Philippines. My primary focus at the moment is studying Python Language.
-
-As part of my college program, I'm also preparing to dive into the world of COBOL. I'm excited to explore this 
-legacy programming language that has a rich history in industries like finance, government and business.
-
-I'm passionate about learning and discovering new technologies, and I'm also looking forward in having a well-
-rounded understanding of both modern and traditional programming languages as I progress in my studies.
-</pre>
+<pre align="left"> 
+Hi, I'm Brian May E. Sebastian, a 3rd-year BSIT student at PUP. I’m currently the Head of Education and Training at 
+IBITS and the Department Lead of Security and Networking under the AWS Cloud Club PUP. I enjoy building full-stack 
+apps using tools like Laravel, React, and Next.js. I'm also into cloud computing, Docker, and automating workflows. 
+I love learning new tech, solving the Rubik's Cube, and working with others on cool ideas. Always open to collaborate 
+and grow with fellow developers. </pre>
 
 
 
@@ -22,11 +17,11 @@ rounded understanding of both modern and traditional programming languages as I 
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="brisebas" height="30" width="40" />
         </a>
-        <a href="https://www.facebook.com/brisebas" target="blank">
+        <a href="https://www.facebook.com/bri.sebastian.2025" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="brisebas" height="30" width="40" />
         </a>
-        <a href="https://www.instagram.com/briansuhh/" target="blank">
+        <a href="https://www.instagram.com/bri_n.seb/" target="blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="briansuhh" height="30" width="40" />
         </a>
