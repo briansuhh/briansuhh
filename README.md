@@ -1,10 +1,9 @@
 <h3 align="center">About me:</h3>
 <pre align="left"> 
-Hi, I'm Brian May E. Sebastian, a 3rd-year BSIT student at PUP. I’m currently the Head of Education and Training at 
-IBITS and the Department Lead of Security and Networking under the AWS Cloud Club PUP. I enjoy building full-stack 
-apps using tools like Laravel, React, and Next.js. I'm also into cloud computing, Docker, and automating workflows. 
-I love learning new tech, solving the Rubik's Cube, and working with others on cool ideas. Always open to collaborate 
-and grow with fellow developers. </pre>
+Hi, I'm Brian May E. Sebastian, a 4th-year BSIT student at PUP. I enjoy building full-stack apps using tools like
+Laravel, Next.js, and Django. I'm also into cloud computing, Docker, and automating workflows. I love learning new
+tech, solving the Rubik's Cube, and working with others on cool ideas. Always open to collaborate and grow with
+fellow developers. </pre>
 
 
 
